@@ -1,0 +1,110 @@
+.finalround {
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+}
+
+.playerturn {
+    display: flex;
+    justify-content: center;
+}
+
+.c2 {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+
+    border: 1px solid black;
+    padding: 1px;
+    margin: 10%;
+    width: 500px;
+    height: auto;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+
+
+}
+
+.c4 {
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.c3 {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 1px;
+    width: 500px;
+    height: auto;
+
+}
+
+.q2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+
+}
+
+.Point {
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+
+}
+
+.bet {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 1px;
+    width: 200px;
+    height: auto;
+
+}
+
+.answer {
+    display: flex;
+    justify-content: center;
+    margin: 1%;
+
+}
+
+.answer1 {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    height: auto;
+
+}
+
+.hat {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.bet2 {
+    border: 2px solid black;
+    padding: 10px;
+
+
+}
+
+.SmartyC {
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+}

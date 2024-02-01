@@ -1,0 +1,105 @@
+.first1 {
+    display: flex;
+    justify-content: center;
+}
+
+.turn1 {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.grid1 {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 5px;
+    text-align: center;
+}
+
+.cell {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.category {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+
+.box1 {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    height: auto;
+
+}
+
+.UserInput1 {
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+
+}
+
+
+
+.center {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+
+
+
+}
+
+.border {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 50px;
+    height: auto;
+
+}
+
+.border1 {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 50px;
+    height: auto;
+
+}
+
+
+.pl {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+
+.end {
+    display: flex;
+    justify-content: end;
+
+}
+
+.box4 {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 50px;
+    height: auto;
+
+}
+
+.SmartyC {
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+}
